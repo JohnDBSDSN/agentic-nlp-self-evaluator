@@ -9,8 +9,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 
-# Ignore datasets if needed
-*.csv
+
 
 # Ignore system files
 .DS_Store
