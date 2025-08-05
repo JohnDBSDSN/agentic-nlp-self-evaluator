@@ -17,3 +17,5 @@ Thumbs.db
 
 # Ignore plot outputs
 *.png
+
+generate_better_reviews.py
